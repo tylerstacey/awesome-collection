@@ -1,7 +1,7 @@
 # Awesome Resources and Info
 A curated collection of job related resources for AWS, GCP, Azure, BOSH, PCF, VMware, etc.
 
-Resources under individual headings were picked for quality & importance.
+Resources under individual headings were picked for quality & relevance [to me :)].
 
 ## Meta
 
