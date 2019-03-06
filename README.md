@@ -5,7 +5,7 @@ A curated collection of job related resources for AWS, GCP, Azure, BOSH, PCF, VM
 
 - Awesome Lists - https://github.com/sindresorhus/awesome
 
-- [Awesome AWS] (https://github.com/donnemartin/awesome-aws)
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
 ## AWS
 
