@@ -31,6 +31,9 @@ Resources under individual headings were picked for quality & relevance [to me :
 
 ## Networking
 
+### VLANS
+- [Cisco Networking Academy's Introduction to VLANs](http://www.ciscopress.com/articles/printerfriendly/2181837)
+
 ## Firewalls
 
 ## Agile
