@@ -24,6 +24,7 @@ Resources under individual headings were picked for quality & relevance [to me :
 ## Microsoft / Windows
 
 ## DevOps
+- [Pivotal DevOps Reading List](https://content.pivotal.io/blog/my-devops-reading-list?_lrsc=b3df29f5-a4e4-4eda-9cb0-67d70a9e0d04&utm_source=employee-social&utm_medium=linkedin&utm_campaign=employee_advocacy)
 
 ## Site Reliabilty Engineering (SRE)
 
